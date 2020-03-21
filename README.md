@@ -1,0 +1,9 @@
+# bashrc
+Just Some bashrc from different Linux Distro's ... More bashrc will be added...
+
+Replace your distro's .bashrc accordingly
+
+As you wish ...
+
+Personally parrotsec is my preference....
+
